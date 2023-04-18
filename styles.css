@@ -1,0 +1,37 @@
+*{
+	text-align: center;
+}
+
+.content{
+	margin-top:50px;
+}
+
+h1{
+	padding:50px;
+}
+
+.img-slider{
+	margin:0 10% 5%;
+}
+
+.img{
+   height:500px;
+}
+
+.about-text{
+	margin:7% 30%;
+}
+
+.nmc-section{
+	background-color: aliceblue;
+	padding:0 5% 2%;
+}
+
+.member-section{
+	margin:3%;
+}
+
+.footer-section{
+	background-color: aliceblue;
+	padding:5%;
+}
